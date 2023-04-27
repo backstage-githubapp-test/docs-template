@@ -40,7 +40,7 @@ spec:
           ui:options:
             allowedKinds:
               - Group
-    - title: Choose a location
+    - title: Choose a repo location
       required:
         - repoUrl
       properties:
