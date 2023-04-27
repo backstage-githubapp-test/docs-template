@@ -54,7 +54,7 @@ spec:
               secretsKey: USER_OAUTH_TOKEN
               additionalScopes:
                 github:
-                  - workflow
+                  - repo
             allowedHosts:
               - github.com
 
