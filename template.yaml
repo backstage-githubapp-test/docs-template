@@ -57,6 +57,9 @@ spec:
                   - repo
                   - workflow
                   - admin:org
+                  - user
+                  - write:packages
+                  - delete:packages
             allowedHosts:
               - github.com
 
